@@ -1,9 +1,10 @@
-# Flight-Delay-Prediction
+# Realtime Flight Delay Prediction System
 
-link dataset is collected from BTS
+This is our first project using Big Data skills.
+
+To do this project we use some frameworks such as Spark, Kafka, Cassandra...
+
+Although the results were not as expected, we built a new realtime system for this problem.
 
 https://drive.google.com/drive/folders/1-t6E5Ga1XrJxA_MiiUt3giQLTxXtqYny?usp=sharing
 
-Project Flight-Delay-Prediction Real-Time use BigData Flatform 
-
-Frameworks're used Spark, kafka, Cassandra...
